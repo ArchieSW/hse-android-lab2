@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hse-android-lab2</string>
+    <string name="add_item">Add item</string>
+    <string name="item_name">Item name</string>
+    <string name="quantity_of_item">Quantity of item</string>
+    <string name="x">X</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="edit">Edit</string>
+</resources>
